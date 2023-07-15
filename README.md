@@ -1,4 +1,7 @@
-#ERC20_Token Contract
+
+## ERC20_Token Contract
+
+
 ## DESCRIPTION
 This project provides a contract for creating and managing an ERC20 token on a local HardHat network. and the contract allows the owner to mint tokens to the specific address, and can burn tokens from the caller's account, and transfer tokens between accounts, and transfer ownership of the contract.
 ## USAGE
